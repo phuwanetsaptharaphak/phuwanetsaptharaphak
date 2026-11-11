@@ -1,4 +1,4 @@
-# Hi there, I'm phuwanetsaptharaphak <span type="placeholder" placeholder-type="person"></span> 👋
+# Hi there, I'm Phuwanet Saptharaphak <span type="placeholder" placeholder-type="person"></span> 👋
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at Universal Of Phayao **<span type="placeholder" placeholder-type="place"></span>**
